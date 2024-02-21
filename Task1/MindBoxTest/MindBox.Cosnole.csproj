@@ -49,5 +49,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MindBox.Library\MindBox.Library.csproj">
+      <Project>{250C5604-7EC1-432D-929B-5E703DF47051}</Project>
+      <Name>MindBox.Library</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
