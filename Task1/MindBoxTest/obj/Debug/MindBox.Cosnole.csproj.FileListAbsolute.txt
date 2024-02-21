@@ -1,0 +1,6 @@
+C:\Users\DENDUKA\source\repos\MindBoxTest\MindBoxTest\bin\Debug\MindBoxTest.exe.config
+C:\Users\DENDUKA\source\repos\MindBoxTest\MindBoxTest\bin\Debug\MindBoxTest.exe
+C:\Users\DENDUKA\source\repos\MindBoxTest\MindBoxTest\bin\Debug\MindBoxTest.pdb
+C:\Users\DENDUKA\source\repos\MindBoxTest\MindBoxTest\obj\Debug\MindBox.Cosnole.csproj.CoreCompileInputs.cache
+C:\Users\DENDUKA\source\repos\MindBoxTest\MindBoxTest\obj\Debug\MindBoxTest.exe
+C:\Users\DENDUKA\source\repos\MindBoxTest\MindBoxTest\obj\Debug\MindBoxTest.pdb

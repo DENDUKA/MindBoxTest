@@ -1,0 +1,6 @@
+C:\Users\DENDUKA\source\repos\MindBoxTest\MindBox.Library\bin\Debug\MindBox.Library.dll
+C:\Users\DENDUKA\source\repos\MindBoxTest\MindBox.Library\bin\Debug\MindBox.Library.pdb
+C:\Users\DENDUKA\source\repos\MindBoxTest\MindBox.Library\obj\Debug\MindBox.Library.csproj.AssemblyReference.cache
+C:\Users\DENDUKA\source\repos\MindBoxTest\MindBox.Library\obj\Debug\MindBox.Library.csproj.CoreCompileInputs.cache
+C:\Users\DENDUKA\source\repos\MindBoxTest\MindBox.Library\obj\Debug\MindBox.Library.dll
+C:\Users\DENDUKA\source\repos\MindBoxTest\MindBox.Library\obj\Debug\MindBox.Library.pdb
